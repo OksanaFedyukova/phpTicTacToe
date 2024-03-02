@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(86, 174, 144);
+    font-family: "Lucida Console", Courier, monospace;
+    color: #fff;
+}
+div{
+    margin: 0 auto;
+    text-align: center;
+}
+table {
+    margin: 10px auto; /* Esto centrará la tabla horizontalmente */
+    border-collapse: collapse; 
+}
+
+td {
+    padding: 10px;
+
+}
+tr{
+    background-color: rgba(57, 211, 211, 0.56);
+    border-radius: 10px;
+
+}
+input{
+    background-color: aquamarine;
+    border-color: aquamarine;
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    font-size: 80px;
+}
+button {
+    background-color:rgba(204, 45, 77, 0.919);
+    color: #fff;
+    border: mediumpurple;
+    padding: 7px;
+    border-radius: 5px;
+    box-shadow: 2px #fff;
+    font-weight:700;
+ 
+}   button:hover {
+        background-color:rgba(193, 88, 109, 0.919);
+
+}
